@@ -1,0 +1,19 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "name": "Caneta BIC",
+        "price":  5.98
+    },
+    {
+        "id": 2,
+        "name": "Notebook Mac",
+        "price":  12000.00
+    },
+    {
+        "id": 3,
+        "name": "Papel Higinenico",
+        "price":  10.00
+    }
+]
+}
